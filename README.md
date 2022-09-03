@@ -68,7 +68,7 @@ Functionally create a Bootstrap as in the image above
 	- Create the main structure of the container (div id="container")
 	- Create Main Topic of the project (id="title")
 	- Create a description of your project (id="description")
-	- Create a form (id="team-members")
+	- Create a form (id="Bootstrap")
 	
 
 >>Part-2 CSS Structure

@@ -1,5 +1,5 @@
 # HTML_CSS_Bootstrap_site
-Bootstrap çalışmak maksadıyla oluşturdum.
+
 
 
 ## Description

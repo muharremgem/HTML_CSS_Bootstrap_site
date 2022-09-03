@@ -3,11 +3,11 @@ Html çalışmak maksadıyla oluşturdum.
 
 
 ## Description
-Project aims to create team members within html and css.
+Project aims to create Bootstrap within html and css.
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[TeamMembers](https://muharremgem.github.io/HTML_CSS_TeamMembers/)| Html Css  |![crewin](./images/team_members1.gif)
+[Bootstrap](https://muharremgem.github.io/HTML_CSS_Bootstrap_site/)| Html Css  |![crewin](./images/bootstrap.gif)
 
 
 ## Problem Statement
@@ -15,7 +15,7 @@ Project aims to create team members within html and css.
 
 ## Project Design
 
-- <a href="https://www.figma.com/file/HXULRJVkPlaCpxQlbm82bX/Project001?node-id=6%3A4">https://www.figma.com/file/HXULRJVkPlaCpxQlbm82bX/Project001?node-id=6%3A4<a>
+- 
 
 ## Project Skeleton 
 
@@ -32,7 +32,7 @@ Project aims to create team members within html and css.
 
 ## Objective
 
-Functionally create a Team members as in the image above
+Functionally create a Bootstrap as in the image above
 
 ### At the end of the project, following topics are to be covered;
 
@@ -75,7 +75,7 @@ Functionally create a Team members as in the image above
 	- Set a background and define font-color="white"
 	- Set container background color and margin
 	- Define "title" and "description" color-size-padding etc...
-	- Define "team-members" color-size-padding etc..
+	- Define "Bootstrap" color-size-padding etc..
 	- Define labels color-size-padding etc... (Tips: id="name", "email", "number" ...)
 	- Set class color-size-padding-margin etc...
 	- Define id="submit" color-size-padding etc...

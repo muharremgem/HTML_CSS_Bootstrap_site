@@ -36,15 +36,15 @@ Functionally create a Bootstrap as in the image above
 
 ### At the end of the project, following topics are to be covered;
 
-- HTML Forms-Input Types 
+- HTML Navbar
 
-- HTML Form Elements
+- HTML image
 
 - CSS Colors-Border Properties
 
 - CSS Margins-Padding
 
-- CSS Properties for Texts-Font Families-Links
+- CSS Properties for Texts-Font "Lato", sans-serif;
 
 
 ### At the end of the project, students will be able to;
@@ -59,7 +59,7 @@ Functionally create a Bootstrap as in the image above
 
 - Step 2: Create project folder for local public repo on your pc
 
-- Step 3: Create Team members
+- Step 3: Create Bootstrap website
 
 >>Part-1 HTML Structure
 
@@ -76,7 +76,7 @@ Functionally create a Bootstrap as in the image above
 	- Set container background color and margin
 	- Define "title" and "description" color-size-padding etc...
 	- Define "Bootstrap" color-size-padding etc..
-	- Define labels color-size-padding etc... (Tips: id="name", "email", "number" ...)
+	- Define labels color-size-padding etc... 
 	- Set class color-size-padding-margin etc...
 	- Define id="submit" color-size-padding etc...
 	
@@ -90,7 +90,6 @@ Functionally create a Bootstrap as in the image above
 
 ## Resources
 
--  [Background Image Url](./background_image.jpg)
 
 
 <center> &#8987; Happy Coding  &#9997; </center>

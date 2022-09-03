@@ -1,5 +1,5 @@
 # HTML_CSS_Bootstrap_site
-Html çalışmak maksadıyla oluşturdum.
+Bootstrap çalışmak maksadıyla oluşturdum.
 
 
 ## Description
@@ -11,11 +11,11 @@ Project aims to create Bootstrap within html and css.
 
 
 ## Problem Statement
-- Your company has recently started a project to promote its employees on its website. So you and your colleagues will promote it on the project.
+- You should create a nice project with the bootstrap you just learned.
 
 ## Project Design
 
-- 
+- Figma 
 
 ## Project Skeleton 
 

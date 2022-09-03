@@ -20,7 +20,7 @@ Project aims to create Bootstrap within html and css.
 ## Project Skeleton 
 
 ```
-001-Team members (folder)
+001-Bootstrap_site (folder)
 |----images
 |----readme.md                 
 |----index.html  
